@@ -1,5 +1,6 @@
 
-![](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
+
 <h1 align="center">Hi 👋, I'm Sakshi Kumari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
