@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi900600" alt="sakshi900600" /></a> </p>
 
-- 🔭 I’m currently working on **Scanomoly**
+- 🔭 See my portfolio: **https://portfolio-sand-eight-81.vercel.app/**
 
 - 🌱 I’m currently learning **React Js, Express Js**
 
