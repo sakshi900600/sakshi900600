@@ -10,6 +10,7 @@
 
 
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi900600" alt="sakshi900600" /></a> </p>
 
 - 🔭 See my portfolio: **https://portfolio-sand-eight-81.vercel.app/**
@@ -50,8 +51,21 @@
 </p>
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi900600&show_icons=true&locale=en&layout=compact" alt="sakshi900600" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi900600&show_icons=true&locale=en" alt="sakshi900600" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi900600&" alt="sakshi900600" /></p>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Do%20not%20explain%20your%20philosophy.%20Embody%20it.&author=Epictetus)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+
+
+
+
+
+
