@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-![](https://img.freepik.com/premium-photo/study-space_1275912-171384.jpg)
 ![](https://img.freepik.com/premium-photo/lofi-girl-student-studying-desk-with-book-starry-star-night-anime-manga-style-wallpaper_598925-8644.jpg)
 
 
