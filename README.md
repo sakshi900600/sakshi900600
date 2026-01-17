@@ -1,3 +1,6 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=sakshi900600&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi900600" /> 
+</p>
 
 ![](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
 
