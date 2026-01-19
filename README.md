@@ -1,6 +1,4 @@
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=sakshi900600&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi900600" /> 
-</p>
+
 
 ![](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
 
@@ -62,7 +60,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi900600&" alt="sakshi900600" /></p>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Do%20not%20explain%20your%20philosophy.%20Embody%20it.&author=Epictetus)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 
 
 
