@@ -1,63 +1,73 @@
-![](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
+<h1 align="center">Hey there, I'm Sakshi Kumari 👋</h1>
+<h3 align="center">Full Stack Developer · React · Node.js · MongoDB</h3>
 
-<h1 align="center">Hi 👋, I'm Sakshi Kumari</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-
-![](https://img.freepik.com/premium-photo/lofi-girl-student-studying-desk-with-book-starry-star-night-anime-manga-style-wallpaper_598925-8644.jpg)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi900600" alt="sakshi900600" /></a> </p>
-
-- 🔭 See my portfolio: **https://portfolio-sand-eight-81.vercel.app/**
-- 🌱 I’m currently learning **React Js, Express Js**
-- 👯 I’m looking to collaborate on **Web development projects**
-- 💬 Ask me about **Html, CSS, JavaScript**
-- 📫 How to reach me **kumarisakshi900600@gmail.com**
-- ⚡ Fun fact **I want to learn and explore everything.**
-
----
-
-### 🤝 Connect with me:
-<table>
-  <tr>
-    <td><a href="https://linkedin.com/in/sakshi900600/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
-    <td><a href="https://leetcode.com/u/kumarisakshi900600/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
-    <td><a href="https://www.geeksforgeeks.org/user/kumarisaksp6wk/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" /></a></td>
-  </tr>
-</table>
-
-### 🛠 Languages and Tools:
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br><sub>HTML5</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br><sub>CSS3</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br><sub>JS</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br><sub>Bootstrap</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br><sub>React</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br><sub>Node.js</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br><sub>Express</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br><sub>MongoDB</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br><sub>Git</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br><sub>Python</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br><sub>MySQL</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br><sub>Figma</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br><sub>Firebase</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br><sub>Postman</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br><sub>Tailwind</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" width="40" height="40"/><br><sub>AI / Prompting</sub></td>
-  </tr>
-</table>
-
----
-
-### 📊 Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi900600&show_icons=true&locale=en&layout=compact" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi900600&show_icons=true&locale=en" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi900600&" height="165" />
+  <a href="https://portfolio-sand-eight-81.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sakshi900600/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kumarisakshi900600@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/kumarisakshi900600/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-</div>
+---
+
+### 🚀 About Me
+
+I'm a **B.Tech CSE final-year student** (graduating 2026) and Full Stack Developer who loves building real-world products end-to-end. I've shipped a Stripe-integrated food delivery platform, an AI/ML e-learning site, and I'm currently building **Trackiva** — a job application tracker with analytics.
+
+- 🔭 Currently building: **[Trackiva](https://github.com/sakshi900600)** — track job applications + get insights on what's working
+- 💼 Previously: React Developer Intern @ **Fotographiya** (Mar–May 2025)
+- 🌱 Exploring: Maps APIs, automation integrations, TypeScript
+- 💬 Ask me about: React, Node.js, Express, MongoDB, REST APIs, JWT, Stripe
+- 📫 Reach me: **kumarisakshi900600@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech | Links |
+|--------|-------------|------|-------|
+| 🍔 **NaanStop** | Food delivery platform with cart, Stripe payments & admin dashboard | React, Node.js, MongoDB, Stripe | [GitHub](https://github.com/sakshi900600) · [Live](#) |
+| 🧠 **DeepAiMind** | E-learning platform for AI/ML concepts with course modules & blog | React, Node.js, MongoDB | [GitHub](https://github.com/sakshi900600) · [Live](#) |
+| 📋 **Trackiva** | Job application tracker with analytics — see what's working in your search | React, Node.js, MongoDB | [GitHub](https://github.com/sakshi900600) · [Live](#) |
+
+> Replace `[Live](#)` links with your actual deployed URLs once live.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi900600&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi900600&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi900600&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">⭐ If you find my work useful, consider starring a repo — it means a lot!</p>
