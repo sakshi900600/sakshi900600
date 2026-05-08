@@ -14,7 +14,7 @@
 
 I'm a **B.Tech CSE final-year student** (graduating 2026) and Full Stack Developer who loves building real-world products end-to-end. I've shipped a Stripe-integrated food delivery platform, an AI/ML e-learning site, and I'm currently building **Trackiva** — a job application tracker with analytics.
 
-- 🔭 Currently building: **[Trackiva](https://github.com/sakshi900600)** — track job applications + get insights on what's working
+- 🔭 Currently building: **[Trackiva](https://github.com/sakshi900600/Trackiva)** — track job applications + get insights on what's working
 - 💼 Previously: React Developer Intern @ **Fotographiya** (Mar–May 2025)
 - 🌱 Exploring: Maps APIs, automation integrations, TypeScript
 - 💬 Ask me about: React, Node.js, Express, MongoDB, REST APIs, JWT, Stripe
@@ -50,9 +50,9 @@ I'm a **B.Tech CSE final-year student** (graduating 2026) and Full Stack Develop
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| 🍔 **NaanStop** | Food delivery platform with cart, Stripe payments & admin dashboard | React, Node.js, MongoDB, Stripe | [GitHub]([https://github.com/sakshi900600](https://github.com/sakshi900600/Food-Delivery)) · [Live](https://naanstop-one.vercel.app/) |
+| 🍔 **NaanStop** | Food delivery platform with cart, Stripe payments & admin dashboard | React, Node.js, MongoDB, Stripe | [GitHub](https://github.com/sakshi900600/Food-Delivery) · [Live](https://naanstop-one.vercel.app/) |
 | 🧠 **DeepAiMind** | E-learning platform for AI/ML concepts with course modules & blog | React, Node.js, MongoDB | [GitHub](https://github.com/sakshi900600) · [Live](#) |
-| 📋 **Trackiva** | Job application tracker with analytics — see what's working in your search | React, Node.js, MongoDB | [GitHub]([https://github.com/sakshi900600](https://github.com/sakshi900600/Trackiva)) · [Live](#) |
+| 📋 **Trackiva** | Job application tracker with analytics — see what's working in your search | React, Node.js, MongoDB | [GitHub](https://github.com/sakshi900600/Trackiva) · [Live](#) |
 
 
 ---
