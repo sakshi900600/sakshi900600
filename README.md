@@ -50,11 +50,10 @@ I'm a **B.Tech CSE final-year student** (graduating 2026) and Full Stack Develop
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| 🍔 **NaanStop** | Food delivery platform with cart, Stripe payments & admin dashboard | React, Node.js, MongoDB, Stripe | [GitHub](https://github.com/sakshi900600) · [Live](#) |
+| 🍔 **NaanStop** | Food delivery platform with cart, Stripe payments & admin dashboard | React, Node.js, MongoDB, Stripe | [GitHub]([https://github.com/sakshi900600](https://github.com/sakshi900600/Food-Delivery)) · [Live](https://naanstop-one.vercel.app/) |
 | 🧠 **DeepAiMind** | E-learning platform for AI/ML concepts with course modules & blog | React, Node.js, MongoDB | [GitHub](https://github.com/sakshi900600) · [Live](#) |
-| 📋 **Trackiva** | Job application tracker with analytics — see what's working in your search | React, Node.js, MongoDB | [GitHub](https://github.com/sakshi900600) · [Live](#) |
+| 📋 **Trackiva** | Job application tracker with analytics — see what's working in your search | React, Node.js, MongoDB | [GitHub]([https://github.com/sakshi900600](https://github.com/sakshi900600/Trackiva)) · [Live](#) |
 
-> Replace `[Live](#)` links with your actual deployed URLs once live.
 
 ---
 
